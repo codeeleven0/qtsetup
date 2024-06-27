@@ -1,5 +1,5 @@
 INSTALLER_CONFIGURATION = {
-    "name": "Fallout 3",
+    "name": "Application",
     "app_archive": "application.zip",
     "archive_format": "zip",
     "main_executable": "Launcher.exe"
